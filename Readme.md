@@ -1,4 +1,3 @@
-
 # array-filter
 
   Filter array or filterify function.
@@ -7,7 +6,7 @@
 
   Install with [component](http://component.io):
 
-    $ component install leafs/array-filter
+    $ component install bredele/array-filter
 
 ## Usage
 
